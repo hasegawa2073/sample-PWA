@@ -17,7 +17,7 @@ self.addEventListener('install', (e) => {
       './sw.js',
       './index.html',
       './main.js',
-      './manifest/manifest.webmanifest',
+      './manifest.webmanifest',
       './manifest/icon-192x192.png',
       './manifest/icon-256x256.png',
       './manifest/icon-384x384.png',
